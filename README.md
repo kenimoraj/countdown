@@ -1,11 +1,11 @@
 # countdown
 
-British game show "Countdown" presents viewers with suprisingly sophisticated problems.
+British game show "Countdown" presents contestants and viewers with suprisingly sophisticated problems.
 This project is an attempt to solve these problems programmatically.
 
 ![image](https://github.com/kenimoraj/countdown/assets/73795771/732bac2c-e2a6-4545-b7b9-468816e6fc99)
 
-Launch **countdown.py** and choose if you want to solve for a numbers or a letters round.
+Launch **countdown.py** and choose if you want to solve for a numbers or a letters round, **numbers_round_calc.py** and **letters_round_calc.py** store logic for both, respectively.
 
 ## Numbers round
 
