@@ -13,7 +13,7 @@ The idea is to perform addition, subtraction, multiplication and division on 6 g
 
 ![image](https://github.com/kenimoraj/countdown/assets/73795771/95ef5228-3c30-483a-9131-125b7a795d92)
 
-This project uses recursive algorithms to arrive at a right answer.
+This project uses recursive algorithms and combinatorics to arrive at a right answer.
 
 ![image](https://github.com/kenimoraj/countdown/assets/73795771/e5b8ea30-d3e5-4f92-99e4-5834623e4507)
 
